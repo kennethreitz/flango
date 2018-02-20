@@ -12,7 +12,7 @@ dj-database-url = "*"
 django = "*"
 flask = "*"
 django-heroku = "*"
-
+gunicorn = "*"
 
 [requires]
 
